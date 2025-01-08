@@ -19,3 +19,7 @@ Esse bootcamp foi uma oportunidade incrível para consolidar meu aprendizado em 
 #### Princípios da Segurança 
 ![principios_segurança](https://github.com/user-attachments/assets/b88ee4ee-ad6c-4e58-a7c3-c3cfbb2d7792)
 Os princípios de segurança da informação são fundamentais para proteger dados e sistemas. Eles incluem: Confidencialidade, garantindo que informações sejam acessadas apenas por quem tem autorização; Integridade, assegurando que os dados não sejam alterados ou corrompidos; e Disponibilidade, garantindo que os recursos estejam acessíveis sempre que necessário. Esses pilares são essenciais para criar e manter sistemas seguros e confiáveis.
+
+#### Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais
+![Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais](https://github.com/user-attachments/assets/e418a04d-c4f3-45b6-be66-516f99dda318)
+Sistemas operacionais gerenciam recursos de hardware e software, fornecendo uma interface entre o usuário e a máquina. Conceitos fundamentais incluem gerenciamento de processos, memória, armazenamento e dispositivos. Máquinas virtuais simulam sistemas computacionais, permitindo executar múltiplos sistemas operacionais em um único hardware, promovendo isolamento, portabilidade e eficiência no uso de recursos.
