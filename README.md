@@ -14,5 +14,8 @@ Participei do **Santander Bootcamp Cibersegurança #2** e adquiri conhecimentos 
 - **Laboratórios Práticos**: Participei de simulações que me permitiram colocar os conhecimentos em prática, enfrentando cenários reais de ciberataques.
 
 Esse bootcamp foi uma oportunidade incrível para consolidar meu aprendizado em cibersegurança e adquirir uma visão mais ampla das responsabilidades e desafios desse campo. Sinto-me mais preparado para aplicar essas habilidades em projetos reais e contribuir para a segurança da informação em qualquer ambiente profissional.
----
+
 # Certificações
+#### Princípios da Segurança 
+![principios_segurança](https://github.com/user-attachments/assets/b88ee4ee-ad6c-4e58-a7c3-c3cfbb2d7792)
+Os princípios de segurança da informação são fundamentais para proteger dados e sistemas. Eles incluem: Confidencialidade, garantindo que informações sejam acessadas apenas por quem tem autorização; Integridade, assegurando que os dados não sejam alterados ou corrompidos; e Disponibilidade, garantindo que os recursos estejam acessíveis sempre que necessário. Esses pilares são essenciais para criar e manter sistemas seguros e confiáveis.
