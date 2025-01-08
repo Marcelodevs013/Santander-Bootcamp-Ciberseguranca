@@ -94,7 +94,7 @@ Entender um ransomware na prática com Python envolve a criação de um programa
 #### Exploração de Vulnerabilidades e Ataques
 ![Exploração de Vulnerabilidades e Ataques](https://github.com/user-attachments/assets/3726ce06-14e2-4b4a-a47f-db47ac8c0254)
 A exploração de vulnerabilidades e ataques envolve identificar falhas em sistemas, redes ou aplicativos e utilizá-las para obter acesso não autorizado, roubar dados ou causar danos. Isso pode incluir técnicas como injeção de código, buffer overflow, falhas de autenticação e exploração de software desatualizado. Ataques comuns incluem SQL Injection, Cross-Site Scripting (XSS), Ransomware e Man in the Middle (MitM). Esses ataques visam comprometer a integridade, confidencialidade e disponibilidade dos sistemas. Mitigações eficazes incluem atualizações de software, criptografia, autenticação forte e testes de segurança contínuos.
-
+***
 
 
 
