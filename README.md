@@ -4,7 +4,7 @@
 Participei do **Santander Bootcamp Cibersegurança #2** e adquiri conhecimentos fundamentais e práticos sobre cibersegurança. Foi uma experiência enriquecedora que me permitiu aprofundar minhas habilidades técnicas na proteção de sistemas, redes e dados.
 
 ## O que aprendi:
----
+
 - **Fundamentos de Cibersegurança**: Compreendi os princípios básicos, como confidencialidade, integridade e disponibilidade, e como aplicá-los na criação de sistemas seguros.
 - **Análise de Vulnerabilidades**: Aprendi a identificar e corrigir falhas em sistemas, utilizando ferramentas e metodologias de mercado.
 - **Testes de Invasão (Pentest)**: Entendi como realizar testes éticos de invasão para identificar vulnerabilidades e fortalecer a segurança.
@@ -14,4 +14,5 @@ Participei do **Santander Bootcamp Cibersegurança #2** e adquiri conhecimentos 
 - **Laboratórios Práticos**: Participei de simulações que me permitiram colocar os conhecimentos em prática, enfrentando cenários reais de ciberataques.
 
 Esse bootcamp foi uma oportunidade incrível para consolidar meu aprendizado em cibersegurança e adquirir uma visão mais ampla das responsabilidades e desafios desse campo. Sinto-me mais preparado para aplicar essas habilidades em projetos reais e contribuir para a segurança da informação em qualquer ambiente profissional.
-
+---
+# Certificações
