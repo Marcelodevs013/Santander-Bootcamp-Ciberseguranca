@@ -23,3 +23,14 @@ Os princípios de segurança da informação são fundamentais para proteger dad
 #### Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais
 ![Conceitos e Práticas de Sistemas Operacionais e Máquinas Virtuais](https://github.com/user-attachments/assets/e418a04d-c4f3-45b6-be66-516f99dda318)
 Sistemas operacionais gerenciam recursos de hardware e software, fornecendo uma interface entre o usuário e a máquina. Conceitos fundamentais incluem gerenciamento de processos, memória, armazenamento e dispositivos. Máquinas virtuais simulam sistemas computacionais, permitindo executar múltiplos sistemas operacionais em um único hardware, promovendo isolamento, portabilidade e eficiência no uso de recursos.
+***
+#### Fundamentos de Redes de Computadores
+![Fundamentos de Redes de Computadores](https://github.com/user-attachments/assets/5115b082-596a-4ad9-b21e-e70fa9d60933)
+Fundamentos de Redes de Computadores envolvem o estudo da interconexão de dispositivos para compartilhar recursos e informações. As redes podem ser classificadas em locais (LAN), regionais (MAN) ou de longa distância (WAN). O modelo OSI, com suas sete camadas (física, enlace, rede, transporte, sessão, apresentação e aplicação), é essencial para entender como os dados são transmitidos. Protocolos como TCP/IP governam a comunicação, e dispositivos como roteadores, switches e hubs gerenciam a troca de dados. As redes podem ser com fio ou sem fio e são fundamentais para comunicação, compartilhamento de arquivos, acesso à internet e serviços de cloud.
+***
+
+
+
+
+
+
