@@ -105,7 +105,7 @@ A exploração de vulnerabilidades e ataques envolve identificar falhas em siste
 
 
 
-
+(D:\CURSO_LOGICA\2025-01-16-20-07-28.gif)
 
 
 
